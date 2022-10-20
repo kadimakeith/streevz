@@ -10,7 +10,7 @@
   <body>
     
     <div id="parent-div"></div>
-    <button hx-get="https://www.boredapi.com/api/activity"
+    <button hx-get="https://cors-anywhere.herokuapp.com/https://www.boredapi.com/api/activity"
     hx-trigger="click"
     hx-target="#parent-div"
     hx-swap="outerHTML"
@@ -21,6 +21,5 @@
     
     
   <script src="https://unpkg.com/htmx.org@1.8.2" integrity="sha384-+8ISc/waZcRdXCLxVgbsLzay31nCdyZXQxnsUy++HJzJliTzxKWr0m1cIEMyUzQu" crossorigin="anonymous"></script>
-	<script src="index.js"></script>
   </body>
 </html>
