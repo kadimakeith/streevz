@@ -1,4 +1,4 @@
-# streevz
+## streevz
 just trying out htmx
 
 # Update
