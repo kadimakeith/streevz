@@ -1,6 +1,6 @@
-## streevz
+# streevz
 just trying out htmx
 
-# Update
+## Update
 
 So htmx only proves to be useful for API's that return HTML
